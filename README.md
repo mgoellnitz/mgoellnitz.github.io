@@ -14,4 +14,4 @@
 
 # CoreMedia related
 
-[Server](https://github.com/mgoellnitz/cm-cms-webapp/) [Tools](https://github.com/mgoellnitz/cm-cms-tools/) - Simple CoreMedia 7 Content Management Server packages with gradle (Sufficient for Tangram CoMA CoreMedia adaptor example)
+[Server](https://github.com/mgoellnitz/cm-cms-webapp/) and [Tools](https://github.com/mgoellnitz/cm-cms-tools/) - Simple CoreMedia 7 Content Management Server packages with gradle (Sufficient for Tangram CoMA CoreMedia adaptor example)

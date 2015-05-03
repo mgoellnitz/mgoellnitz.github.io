@@ -1,6 +1,6 @@
-# Generic tools
-
 ![mgoellnitz](https://avatars0.githubusercontent.com/u/432458?v=3&s=120)
+
+# Generic tools
 
 [dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistiq dependency injection for Java
 

@@ -6,7 +6,7 @@
 
 # Generic tools
 
-[dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistiq dependency injection for Java
+[dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistic Dependency Injection for Java
 
 [trackdown](https://github.com/mgoellnitz/trackdown/) - Lightweight Issue Tracking with plain Markdown for distributed teams.
 

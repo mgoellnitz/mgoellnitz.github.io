@@ -8,6 +8,8 @@
 
 [dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistiq dependency injection for Java
 
+[trackdown](https://github.com/mgoellnitz/trackdown/) - Issue Tracking with plain Markdown. A lightweight ticketing system for distributed teams.
+
 # CoreMedia related
 
 [Server](https://github.com/mgoellnitz/cm-cms-webapp/) and [Tools](https://github.com/mgoellnitz/cm-cms-tools/) - Simple CoreMedia 7 Content Management Server packages with gradle (Sufficient for Tangram CoMA CoreMedia adaptor exampl)

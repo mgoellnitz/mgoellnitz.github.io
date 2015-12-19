@@ -8,7 +8,7 @@
 
 [dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistic Dependency Injection for Java
 
-[trackdown](https://github.com/mgoellnitz/trackdown/) - Lightweight Issue Tracking with plain Markdown for distributed teams.
+[trackdown](http://mgoellnitz.github.io/trackdown/) - Lightweight Issue Tracking with plain Markdown for distributed teams.
 
 # CoreMedia related
 

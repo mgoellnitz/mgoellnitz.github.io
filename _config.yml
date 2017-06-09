@@ -1,0 +1,8 @@
+title: martin at github.com
+description: Open Source Contributions
+google_analytics: UA-59511125-4
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions

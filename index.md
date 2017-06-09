@@ -4,7 +4,7 @@
 
 [JFileSync3](http://mgoellnitz.github.io/JFileSync3) - Encrypted File Syncing for the cloud
 
-# Generic tools
+# Generic Tools
 
 [dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistic Dependency Injection for Java
 
@@ -24,7 +24,7 @@ in the Cloud for CoreMedia CMS-9 and LiveContext-3 Systems.
 [Tools](https://github.com/mgoellnitz/cm-cms-tools/) - Simple CoreMedia 7 Content Management Server 
 packages with gradle (Sufficient for Tangram CoMA CoreMedia adaptor exampl)
 
-# Web publishing and application related
+# Web Publishing and Application related
 
 [Tangram](https://github.com/mgoellnitz/tangram/) - Modular dynamic and object oriented 
 web templating framework with limited editing capabilities

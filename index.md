@@ -2,15 +2,15 @@
 
 # Generic Tools
 
-[trackdown](http://mgoellnitz.github.io/trackdown/) - Lightweight Issue Tracking with plain Markdown for distributed teams.
+[trackdown](http://mgoellnitz.github.io/trackdown/) - Lightweight Issue Tracking with plain Markdown for distributed teams. If you are missing the "git clone" for your tickets from github.com, codeberg.org, or gitlab.com, then this is for you.
 
-[dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistic Dependency Injection for Java
+[dinistiq](http://mgoellnitz.github.io/dinistiq/) - Minimalistic Dependency Injection for Java.
 
 # CoreMedia related
 
-[CMCC Build Image](https://github.com/provocon/coremedia-build-docker) to prepare, package, and upload CoreMedia CMCC-11, CMCC-10, CMS-9, ... Workspaces with Platform Releases up to 2310 - at least - and starting from 1701
+[CMCC Build Image](https://github.com/provocon/coremedia-build-docker) to prepare, package, and upload CoreMedia CMCC-11, CMCC-10, CMS-9, ... Workspaces with Platform Releases up to 2310 - at least - and starting from 1701. Comes with ready to use starting points for GitLab CI, GitHub Action, Forgejo Action etc.
 
-[CoConAT](http://mgoellnitz.github.io/coconat/) Content Access Tool for CoreMedia Content Repositories in different languages. Extracted from Tangram CoreMedia Adaptor CoMA.
+[CoConAT](http://mgoellnitz.github.io/coconat/) Content Access Tool for CoreMedia Content Repositories in different languages. Extracted from Tangram CoreMedia Adaptor CoMA als also ported to PHP.
 
 [Hello World](https://github.com/provocon/hello-cms-9) minimal Content preparator Tool for CoreMedia CMS-9.
 

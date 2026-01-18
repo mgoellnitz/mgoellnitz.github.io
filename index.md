@@ -13,10 +13,10 @@ Injection for Java.
 # CoreMedia related
 
 [CMCC Build Image](https://codeberg.org/provocon/coremedia-build-docker) to
-prepare, package, and upload CoreMedia CMCC-11, CMCC-10, CMS-9, ... Workspaces
-with Platform Releases up to 2310 - at least - and starting from 1701. Comes
-with ready to use starting points for GitLab CI, GitHub Action, Forgejo Action
-etc.
+prepare, package, and upload CoreMedia CMCC-12, CMCC-11, CMCC-10, CMS-9, ... 
+Workspaces with Platform Releases up to 2506 - at least - and starting from
+1701. Comes with ready to use starting points for GitLab CI, GitHub Action,
+Forgejo Action etc.
 
 [CMCC Cloud Toolkit](https://codeberg.org/provocon/coremedia-cloud-development-toolkit)
 support scripts to translate well documented CMCC on cloud development
@@ -47,4 +47,5 @@ oriented web templating framework with limited editing capabilities
 
 [Tangram Examples](https://github.com/mgoellnitz/tangram-examples/) - Example
 applications for the different flavours of tangram
+
 
